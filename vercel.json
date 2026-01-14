@@ -1,6 +1,3 @@
 {
-    "buildCommand": "next build",
-    "outputDirectory": ".next",
-    "installCommand": "npm i --legacy-peer-deps",
-    "framework": "nextjs"
+  "framework": "nextjs"
 }
